@@ -82,7 +82,7 @@ Result Display (Streamlit UI)
 ```
 call_me_maybe/
 ├── src/
-│   └── main.py
+│   └── __main__.py
 ├── data/
 │   ├── input/
 │   │   ├── functions_definition.json
