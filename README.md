@@ -77,7 +77,9 @@ Result Display (Streamlit UI)
 
 ---
 
-##  Repository Structure
+## Repository Structure
+
+```
 call_me_maybe/
 ├── src/
 │   └── main.py
@@ -92,7 +94,7 @@ call_me_maybe/
 ├── Makefile
 ├── pyproject.toml
 └── README.md
-
+```
 ---
 
 ##  Instructions
