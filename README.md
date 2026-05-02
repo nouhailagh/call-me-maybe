@@ -1,6 +1,6 @@
 markdown*This project has been created as part of the 42 curriculum by nouhaila.*
 
-# 🤖 Call Me Maybe - Function Calling System with LLM
+# Call Me Maybe - Function Calling System with LLM
 
 ## Project Description
 
@@ -14,7 +14,7 @@ Given a natural language request like *"What is the sum of 2 and 3?"*, the syste
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 Natural Language Input
 ↓
 Function Selection (LLM-based)
@@ -49,7 +49,7 @@ Result Display (Streamlit UI)
 
 ---
 
-## ⚙️ Technical Stack
+##  Technical Stack
 
 - **LLM Model:** Qwen/Qwen3-0.6B (Alibaba)
 - **AI Framework:** HuggingFace Transformers
@@ -61,7 +61,7 @@ Result Display (Streamlit UI)
 
 ---
 
-## 🔧 Available Functions
+##  Available Functions
 
 | Function | Description |
 |----------|-------------|
@@ -78,7 +78,7 @@ Result Display (Streamlit UI)
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 call_me_maybe/
 ├── src/
 │   └── main.py
@@ -96,7 +96,7 @@ call_me_maybe/
 
 ---
 
-## 🚀 Instructions
+##  Instructions
 
 ### Installation
 ```bash
@@ -123,7 +123,7 @@ uv run python -m src \
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 ```json
 [
@@ -142,7 +142,7 @@ uv run python -m src \
 
 ---
 
-## 🧠 Algorithm Explanation
+##  Algorithm Explanation
 
 The system uses keyword-based function selection combined with LLM processing:
 
@@ -154,16 +154,16 @@ The system uses keyword-based function selection combined with LLM processing:
 
 ---
 
-## 📈 Performance
+##  Performance
 
-- ✅ 100% valid JSON output
-- ✅ 95%+ correct function selection
-- ✅ Processes all prompts in under 1 minute
-- ✅ Supports 10 different functions
+-  100% valid JSON output
+-  95%+ correct function selection
+-  Processes all prompts in under 1 minute
+- Supports 10 different functions
 
 ---
 
-## 🔬 Testing Strategy
+##  Testing Strategy
 
 - Tested with all 11 provided prompts
 - Verified JSON structure and content
@@ -172,7 +172,7 @@ The system uses keyword-based function selection combined with LLM processing:
 
 ---
 
-## 📚 Resources
+##  Resources
 
 - [HuggingFace Transformers](https://huggingface.co/docs/transformers)
 - [Qwen3 Model](https://huggingface.co/Qwen/Qwen3-0.6B)
@@ -183,6 +183,6 @@ AI Usage: Claude AI was used to help structure the code, debug errors, and desig
 
 ---
 
-## 🏆 Certification
+##  Certification
 
 This project was developed alongside the **Oracle Cloud Infrastructure 2025 Generative AI Professional** certification.
