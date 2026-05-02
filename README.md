@@ -1,7 +1,7 @@
 
 # Call Me Maybe - Function Calling System with LLM
 
-## Project Description
+## Project Description.
 
 This project implements an end-to-end **Function Calling System** that translates natural language prompts into structured JSON function calls using a small LLM (Qwen3-0.6B) with constrained decoding. It features a beautiful interactive web interface built with Streamlit.
 
