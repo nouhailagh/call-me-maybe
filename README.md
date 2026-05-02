@@ -1,4 +1,3 @@
-markdown*This project has been created as part of the 42 curriculum by nouhaila.*
 
 # Call Me Maybe - Function Calling System with LLM
 
